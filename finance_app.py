@@ -50,4 +50,4 @@ st.subheader("Yearly Profit")
 st.line_chart(yearly_profit.set_index('year'))
 
 # Close the connection
-conn.close()lose()
+conn.close()
